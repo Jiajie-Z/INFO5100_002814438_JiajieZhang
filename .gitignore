@@ -1,3 +1,8 @@
-*.json
-/node_modules
-*.js
+# Ignore node_modules directory
+node_modules/
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore parse.js file
+parse.js
