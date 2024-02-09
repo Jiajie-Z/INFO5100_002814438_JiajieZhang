@@ -6,3 +6,6 @@ package-lock.json
 
 # Ignore parse.js file
 parse.js
+
+# Ignore package.json file
+package.json
