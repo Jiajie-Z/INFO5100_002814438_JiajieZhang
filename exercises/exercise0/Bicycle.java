@@ -31,6 +31,6 @@ public class Bicycle {
       public void trun() {
               System.out.println("bicycle can make turns");
           }
-  }
+}
 
 
